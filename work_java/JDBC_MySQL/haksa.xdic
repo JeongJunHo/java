@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm:TermDictionary xmlns:tm="http://exerd.com/term-model" version="1.1">
+  <term name="학생" physicalName="student"/>
+  <term name="학번" physicalName="hakbun"/>
+  <term name="이름" physicalName="name"/>
+  <term name="성별" physicalName="gender"/>
+  <term name="생일" physicalName="birthday"/>
+  <term name="학과코드" physicalName="deptno"/>
+  <term name="학과명" physicalName="dname"/>
+</tm:TermDictionary>
